@@ -37,10 +37,10 @@
 한림대학교는 매년 census를 통해 학생들의 설문을 관리하고 분석해 온 노하우가 있으며, 이를 체계적으로 관리하는 
 시스템을 만들고 분석 가능한 서비스를 만든다면 많은 학교에 큰 도움이 될 것이라고 생각한다.  
 
-<img src="/img/image01.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/img/image02.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/img/image03.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/img/image04.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/04 테스트/image01.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/04 테스트/image02.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/04 테스트/image03.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/04 테스트/image04.png" width="400px"  title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 # 프로젝트 내용 & 목표
 
